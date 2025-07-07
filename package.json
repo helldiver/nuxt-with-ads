@@ -12,8 +12,10 @@
   "dependencies": {
     "@nuxt/content": "3.6.3",
     "@nuxt/image": "1.10.0",
+    "@nuxt/scripts": "0.11.9",
     "@nuxt/ui": "3.2.0",
     "@nuxtjs/google-adsense": "^3.0.0",
+    "@unhead/vue": "^2.0.11",
     "better-sqlite3": "^12.2.0",
     "nuxt": "^3.17.6",
     "typescript": "^5.8.3",
